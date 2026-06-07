@@ -1,0 +1,165 @@
+CONNECT — THE APP: DESIGN RATIONALE
+Each feature, and why it exists.
+================================================================
+
+THE THREE NUDGES (from the document):
+  Nudge 1 — Social uncertainty  → make peer behaviour visible (social proof)
+  Nudge 2 — Choice overload     → personalised ranking + grouping
+  Nudge 3 — Present bias        → soft RSVP + morning-of notification
+
+THE SIX DESIGN PRINCIPLES:
+  1. Order      — rank by social relevance; tonight before next week; rank, don't hide
+  2. Grouping   — sections, not one long undifferentiated list
+  3. Headings   — language does the emotional work; never read as "I'm lonely"
+  4. Salience   — low-effort action dominant; momentum over raw headcounts; no dopamine-bait
+  5. Descriptions — vivid, concrete, real numbers
+  6. Decision effort — scannable in seconds; the app has done the sorting
+
+
+1. ONBOARDING (Welcome → Name → Department → Country → Interests)
+----------------------------------------------------------------
+Profile collects course, country, and interests — and nothing else.
+Why: these are the only three fields the nudges need. Course drives
+"X from your course are going," country drives "X from your country are
+going" for international students, interests drives "X share your
+interests" and interest-based ranking (Nudge 1 & 2). Kept to one short
+profile so the student never has to search or filter again (EAST: Easy).
+
+Welcome screen leads with privacy (private by default · you choose what
+others see · no data shared externally).
+Why: the safety/credibility barrier has to drop before a self-conscious
+student commits.
+
+Name is optional ("only if you choose to share it").
+Why: keeps identity opt-in and anonymity intact.
+
+
+2. THE FEED — RANKING & GROUPING (Nudge 2)
+----------------------------------------------------------------
+Two sections: "MOST RELEVANT TO YOU" and "EVERYTHING ELSE."
+Why (principle 2): a long undifferentiated list triggers choice paralysis;
+a short curated set makes the social proof land instead of feeling empty.
+
+Personalised ranking: coursemate count (highest weight), then shared
+interests, then country, then time proximity.
+Why (Nudge 2 + principle 1): events peers are attending, and events
+tonight, surface first. The app does the cognitive work, not the student.
+
+Sort toggle (For you / By date / A–Z); events are never removed.
+Why (ethics + principle 1): "rank, don't hide" — ordering may change,
+availability never does.
+
+Skipped events sink to the bottom of their section and stay reversible.
+Why: keeps the experience soft and no-commitment.
+
+Heading "Most relevant to you" (not "Meet people").
+Why (principle 3): "Meet people" reads as an admission of loneliness;
+"Most relevant to you" normalises attendance as ordinary behaviour.
+
+"Less relevant to you" label removed from the lower section.
+Why: it read as algorithmic rejection. Dimming alone signals lower
+priority without making anyone feel sorted into a leftover pile.
+
+
+3. THE EVENT CARD
+----------------------------------------------------------------
+Card splits identity (on the photo) from social + actions (on the white).
+Why (principles 5 & 6): keeps the card scannable in seconds.
+
+Real activity photo, with title, time/location, and a Free/Paid pill over
+a soft gradient.
+Why (principle 5): vivid and concrete, all the "what / when / where" in
+one glance, not an abstract list item.
+
+Badge top-left ("Top pick for you", "Matches your interests", "Your
+country").
+Why (Nudge 2): states WHY the event surfaced, reducing cognitive load.
+
+"X joined today" pill top-right (momentum), and raw total-attendee numbers
+removed everywhere.
+Why (principle 4 + anxiety-safe): "8 joined today" feels alive; a big
+crowd number ("210 going") intimidates an anxious first-year.
+
+Social proof: "34 from your course are going" / "11 share your interests,"
+with initial-avatars.
+Why (Nudge 1, Cialdini): social proof is strongest from similar people —
+"from your course" lands harder than a generic headcount.
+
+Avatars use tonal shades of one colour, randomised initials.
+Why: reads as one cohesive group, and never exposes real identities.
+
+Card kept visually calm, minimal colour.
+Why (principle 4): no flashing / dopamine-bait; attention goes to the
+proof and the action, not decoration.
+
+
+4. THE BUTTONS (Nudge 3 + principle 4)
+----------------------------------------------------------------
+"I might go" is the soft RSVP and the dominant action; Chat and Skip are
+compact icons beside it.
+Why (Nudge 3 + principle 4): the low-effort, no-commitment action is the
+obvious one; the others stay secondary.
+
+"I might go" is a soft tint at rest, solid only when selected.
+Why: a loud saturated button at rest reads as pressure. Gentle invitation
+until acted on, then it confirms — quiet → committed.
+
+Skip is one tap and fully reversible.
+Why: keeps it low-stakes — no penalty, no guilt, no visible flaking.
+
+Detail screen expands to four soft states (I might go / I'm going / Not
+for me / Save for later).
+Why: full control over intention without a hard commitment.
+
+
+5. THE MORNING NOTIFICATION (Nudge 3)
+----------------------------------------------------------------
+"Good morning, [Name] — Tonight: Postgrad Mixer at 6pm. You said you
+might go; 34 from your course are attending. Tap to confirm your spot."
+Why: morning timing shortens the distance to the payoff while the event
+still feels concrete. Too early feels abstract; too late and plans have
+formed. This overcomes present bias.
+
+
+6. PRIVACY & ETHICS
+----------------------------------------------------------------
+Anonymous by default (stated on the first onboarding screen).
+"Show my name to others" — toggle, OFF by default (opt-in name sharing).
+"Allow others to message me" — toggle, OFF by default (the document's
+"can choose if they want to be contacted").
+People tab shows who's going, but contact is opt-in.
+No data shared externally.
+Why: anonymity is the default; the student opts IN to visibility.
+
+
+7. ANXIETY-SAFE BY DESIGN
+----------------------------------------------------------------
+Avoided on purpose, because the users are lonely and often anxious:
+  • No scarcity countdowns ("only 3 spots left").
+  • No leaderboards or "most social" gamification.
+  • No "who declined" / visible flaking.
+  • No read receipts.
+  • No raw crowd sizes — relative, similar-peer counts only.
+  • No flashing, no dopamine-bait, no infinite scroll.
+Why: these patterns would make the exact people the app is for feel worse.
+
+
+----------------------------------------------------------------
+QUICK MAP — FEATURE → WHY
+----------------------------------------------------------------
+Short profile (course/country/interests) ... powers all social proof (Nudge 1); EAST "Easy"
+"X from your course are going" ............. Nudge 1 (social uncertainty); Cialdini similarity
+Avatar stacks (tonal, anonymous) ........... Nudge 1, credible but anonymity-safe
+"X joined today" momentum pill ............. Principle 4 (momentum over raw headcounts)
+Removed raw total-attendee numbers ......... anxiety-safe (big crowds intimidate)
+Sectioned feed (Most relevant / Everything else) . Nudge 2 + Principle 2 (grouping)
+Personalised ranking ....................... Nudge 2 + Principle 1 (order)
+Sort toggle / never hiding events .......... Ethics ("rank, don't hide")
+"Most relevant to you" heading ............. Principle 3 (no "I'm lonely" framing)
+Removed "Less relevant to you" label ....... anxiety-safe (no algorithmic rejection)
+Photo + overlaid title/time/Free pill ...... Principles 5 & 6 (vivid, scannable)
+"I might go" dominant, soft-then-solid ..... Nudge 3 + Principle 4 (salience, low pressure)
+Chat & Skip as quiet icons ................. Principle 4 (keep focus on the soft action)
+Morning notification ....................... Nudge 3 (present bias, optimal timing)
+Privacy toggles (name / contact), off by default . Ethics (anonymity & consent)
+================================================================

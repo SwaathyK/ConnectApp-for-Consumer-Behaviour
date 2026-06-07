@@ -1,0 +1,115 @@
+CONNECT — EVENT IMAGE PROMPTS
+Each block below is fully self-contained — copy one prompt, generate, save with the filename noted under it. Save all to assets/events/
+================================================================
+
+1 — Postgrad Mixer
+A relaxed evening social for postgraduate students: a small group of diverse young adults in their mid-20s chatting and laughing while holding drinks in a warmly lit university bar. Candid documentary-style photography, natural soft golden indoor lighting, shallow depth of field, warm and inviting university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 1.jpg
+
+----------------------------------------------------------------
+2 — Board Game Night
+A cosy campus common room where a mixed group of students gather around a wooden table mid-game, colourful board games and cards spread out, mid-laugh and leaning in. Candid documentary-style photography, warm natural lamplight, shallow depth of field, playful friendly university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 2.jpg
+
+----------------------------------------------------------------
+3 — First Year Welcome Drinks
+First-year university students socialising with drinks in a lively pub garden at golden hour, string lights overhead, animated conversation and smiles. Candid documentary-style photography, warm natural late-afternoon sun, shallow depth of field, energetic welcoming university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 3.jpg
+
+----------------------------------------------------------------
+4 — Flat Vibes Social
+Students relaxing together in a casual modern dorm lounge, sitting on sofas and the floor with snacks, chatting easily. Candid documentary-style photography, soft natural window light, shallow depth of field, low-key cosy university-campus hangout atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 4.jpg
+
+----------------------------------------------------------------
+5 — Film Society: Parasite
+Students watching a film in a dim cosy university screening room, faces softly lit by the glow of the screen, engaged expressions. Candid documentary-style photography, low warm ambient lighting, shallow depth of field, cinematic university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 5.jpg
+
+----------------------------------------------------------------
+6 — Life Drawing Class
+Art students sketching at wooden easels in a bright sunlit studio, charcoal and paper, focused and calm. Candid documentary-style photography, soft diffused natural daylight from large windows, shallow depth of field, creative quiet university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 6.jpg
+
+----------------------------------------------------------------
+7 — Jazz Night
+A small student jazz band performing on a warmly lit stage in an intimate campus venue, saxophone and double bass, audience silhouettes in the foreground. Candid documentary-style photography, moody amber stage lighting, shallow depth of field, lively musical university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 7.jpg
+
+----------------------------------------------------------------
+8 — International Food Fair
+A vibrant outdoor international food fair on a university piazza, rows of colourful stalls with dishes from many cultures, diverse students smiling and sampling food. Candid documentary-style photography, bright natural daylight, shallow depth of field, festive multicultural university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 8.jpg
+
+----------------------------------------------------------------
+9 — Campus Bake-Off
+A friendly student baking competition, a long table arranged with colourful homemade cakes and pastries, students proudly presenting their bakes. Candid documentary-style photography, bright cheerful natural daylight, shallow depth of field, warm wholesome university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 9.jpg
+
+----------------------------------------------------------------
+10 — Supper Club: East Asian Cuisine
+Students sharing a generous spread of East Asian dishes at a long communal dining table, steam rising, plates being passed, warm conversation. Candid documentary-style photography, cosy natural restaurant lighting, shallow depth of field, intimate shared-meal university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 10.jpg
+
+----------------------------------------------------------------
+11 — Study & Chill
+Students studying together in a cosy library café, laptops, notebooks and coffee cups on the table, relaxed and productive. Candid documentary-style photography, soft warm natural daylight, shallow depth of field, calm focused university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 11.jpg
+
+----------------------------------------------------------------
+12 — Debate Night: AI & Ethics
+University students debating animatedly in a tiered lecture hall, one student standing mid-point gesturing, others listening intently. Candid documentary-style photography, clean even natural indoor lighting, shallow depth of field, engaged intellectual university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 12.jpg
+
+----------------------------------------------------------------
+13 — Research Symposium
+Postgraduate students presenting research posters in a bright modern academic atrium, small groups discussing and pointing at the boards. Candid documentary-style photography, airy natural daylight, shallow depth of field, professional curious university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 13.jpg
+
+----------------------------------------------------------------
+14 — Basketball Pick-Up Game
+Young people playing a casual pick-up basketball game on an indoor court in the evening, mid-action shot of a player driving to the hoop. Candid documentary-style sports photography, bright natural gym lighting, slight motion blur, energetic competitive university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 14.jpg
+
+----------------------------------------------------------------
+15 — Morning 5K Run
+A group of students jogging together along a green campus path at sunrise, breath visible in the cool air, relaxed and healthy. Candid documentary-style photography, soft golden natural morning light, shallow depth of field, fresh energetic university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 15.jpg
+
+----------------------------------------------------------------
+16 — Badminton Social
+Students mid-rally playing badminton in a university sports hall, racket raised, shuttlecock in the air, dynamic and fun. Candid documentary-style sports photography, bright even natural hall lighting, slight motion blur, active social university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 16.jpg
+
+----------------------------------------------------------------
+17 — Wellbeing Walk
+A small group of students walking together along a sunny tree-lined campus path, chatting calmly, autumn leaves underfoot. Candid documentary-style photography, soft natural daylight, shallow depth of field, gentle restorative university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 17.jpg
+
+----------------------------------------------------------------
+18 — Meditation Morning
+Students sitting calmly in a circle on cushions in a peaceful, airy room, eyes closed, mid-meditation. Candid documentary-style photography, soft diffused natural morning light, shallow depth of field, serene quiet university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 18.jpg
+
+----------------------------------------------------------------
+19 — Yoga on Campus
+Students doing yoga on mats laid out on a grassy university courtyard in the morning, mid-stretch, calm and balanced. Candid documentary-style photography, soft golden natural morning light, shallow depth of field, fresh peaceful university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 19.jpg
+
+----------------------------------------------------------------
+20 — Consulting Careers Evening
+Smart-casual students networking at a university careers evening, holding drinks and talking with alumni professionals in a modern foyer. Candid documentary-style photography, warm professional natural indoor lighting, shallow depth of field, aspirational university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 20.jpg
+
+----------------------------------------------------------------
+21 — CV & LinkedIn Workshop
+A small group of students gathered around laptops in a collaborative workshop, a careers advisor pointing at a screen, focused and helpful. Candid documentary-style photography, clean bright natural indoor light, shallow depth of field, productive supportive university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 21.jpg
+
+----------------------------------------------------------------
+22 — Tech Careers Fair
+A busy university technology careers fair, company stalls and banners lining a bright atrium, students in conversation with recruiters. Candid documentary-style photography, airy natural daylight, shallow depth of field, buzzing professional university-campus atmosphere. No text, no logos, no watermarks. 16:9 landscape, 1200x675 px.
+→ save as 22.jpg
+
+================================================================
+END — 22 events
